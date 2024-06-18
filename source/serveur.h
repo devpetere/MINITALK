@@ -13,8 +13,8 @@
 #ifndef SERVEUR_H
 # define SERVEUR_H
 
-# include "./FT_PRINTF/ft_printf.h"
-# include "./utils.h"
+# include "../FT_PRINTF/ft_printf.h"
+# include "../utils/utils.h"
 # include <unistd.h>
 # include <stdio.h>
 # include <signal.h>

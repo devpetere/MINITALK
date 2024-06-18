@@ -6,7 +6,7 @@
 /*   By: herirand <herirand@student.42antananarivo  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 09:06:58 by herirand          #+#    #+#             */
-/*   Updated: 2024/06/13 09:41:03 by herirand         ###   ########.fr       */
+/*   Updated: 2024/06/17 09:18:54 by herirand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,5 +21,6 @@ int		ft_atoi(const char *nptr);
 char	*ft_itoa(int n);
 void	*ft_calloc(size_t nmemb, size_t size);
 void	ft_bzero(void *s, size_t n);
+void	*ft_memset(void *s, int c, size_t n);
 
 #endif

@@ -17,7 +17,7 @@
 ### 1. Cloner le projet
 ```bash
 git clone git@github.com:herirand/MINITALK.git
-cd minitalk
+cd MINITALK
 ```
 
 ### 2. Compilation

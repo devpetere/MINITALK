@@ -16,7 +16,7 @@
 ## Utilisation
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-utilisateur/minitalk.git
+git clone git@github.com:herirand/MINITALK.git
 cd minitalk
 ```
 

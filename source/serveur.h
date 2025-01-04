@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   serveur.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: herirand <herirand@student.42antananarivo  +#+  +:+       +#+        */
+/*   By: herirand <herirand@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/12 14:11:07 by herirand          #+#    #+#             */
-/*   Updated: 2024/06/13 13:57:02 by herirand         ###   ########.fr       */
+/*   Updated: 2025/01/04 19:19:44 by herirand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

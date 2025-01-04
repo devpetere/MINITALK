@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: herirand <herirand@student.42antananarivo  +#+  +:+       +#+        */
+/*   By: herirand <herirand@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 09:06:58 by herirand          #+#    #+#             */
-/*   Updated: 2024/06/17 09:18:54 by herirand         ###   ########.fr       */
+/*   Updated: 2025/01/04 19:19:53 by herirand         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
